@@ -1,0 +1,6 @@
+name: Herokool-Cloud
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A cloud nplatform to deploy test web apps.
